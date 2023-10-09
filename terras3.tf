@@ -59,6 +59,8 @@ resource "aws_s3_bucket" "financials" {
     git_repo             = "terragoat"
     yor_trace            = "0e012640-b597-4e5d-9378-d4b584aea913"
   })
+#This is a test to see that the diff is identified
+#confirm that you notice the diff
 
 }
 
