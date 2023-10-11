@@ -30,9 +30,7 @@ EOF
     git_repo             = "terragoat"
     yor_trace            = "347af3cd-4f70-4632-aca3-4d5e30ffc0b6"
   })
-  metadata_options {
-    http_tokens = "required"
-  }
+  monitoring = true
 }
 
 #thi is a fake change
