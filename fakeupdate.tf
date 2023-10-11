@@ -310,3 +310,8 @@ output "public_subnet2" {
 }
 #This is going to be a fake cahnge
 #Hope this works
+# This is a git lesson on PR
+# This is a git lesson on PR
+/* output "public_subnet" {
+  description = "The ID of the Public subnet"
+  value       = aws_subnet.web_subnet.id */
