@@ -61,6 +61,11 @@ resource "aws_s3_bucket" "financials" {
   })
 #This is a test to see that the diff is identified
 #confirm that you notice the diff
+# Here is adding new lines of code to see how long it takes to update in PC
+# Here is adding new lines of code to see how long it takes to update in PC
+# Here is adding new lines of code to see how long it takes to update in PC
+# Here is adding new lines of code to see how long it takes to update in PC
+# Here is adding new lines of code to see how long it takes to update in PC
 
 }
 
